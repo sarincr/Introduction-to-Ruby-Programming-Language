@@ -1,0 +1,2 @@
+Its is ruby /eclipse-workspace/Ruby_Basics/07.FileIO.rb:2:in `initialize': No such file or directory @ rb_sysopen - newtext.txt (Errno::ENOENT)
+	

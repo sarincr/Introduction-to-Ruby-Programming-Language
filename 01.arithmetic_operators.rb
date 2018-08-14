@@ -1,0 +1,12 @@
+x=10
+y=20 
+add=x+10 
+sub=y-x 
+mul=x*y 
+div=x/y 
+sqr=x**2 
+puts(" Addition=",add) 
+puts("Multiplication=",mul) 
+puts("Subtract=",sub) 
+puts("Divide=",add) 
+puts("Squire root of #{x}=",sqr)
