@@ -1,0 +1,1 @@
+File.foreach("text.txt") { |line| puts line }
